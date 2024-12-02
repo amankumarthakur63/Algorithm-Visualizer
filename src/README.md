@@ -2,14 +2,11 @@
 
 Developed by [@AmanKumarThakur63](https://github.com/amankumarthakur63/Algorithm-Visualizer.git)
 
-Demo video: https://youtu.be/huR1NSwUnAY 
-
 Finish date: December 3, 2024
 
-## Project Features
-- Sorting Algorithms Visualizer `DONE`
-- [Picture Puzzle Sorter](https://www.youtube.com/watch?v=Bc0sVtB_-ak) `TODO`
-- [Pathfinding algorithm](https://clementmihailescu.github.io/Pathfinding-Visualizer/) `TODO`
+## Project Feature
+- Sorting Algorithms Visualizer 
+
 
 ## First Prototype
 <img src="assets/mvp1.gif">
