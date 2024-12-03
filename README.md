@@ -1,18 +1,15 @@
 # Algorithm Visualizer in Java 
 
-Developed by [@Rustam-Z](https://github.com/Rustam-Z) and
-
-
+Developed by [@Aman Kumar Thakur](https://github.com/amankumarthakur63/Algorithm-Visualizer.git) and
 
 Finish date: December 3, 2024
 
 ## Project Features
 - Sorting Algorithms Visualizer `DONE`
-- [Picture Puzzle Sorter](https://www.youtube.com/watch?v=Bc0sVtB_-ak) `TODO`
-- [Pathfinding algorithm](https://clementmihailescu.github.io/Pathfinding-Visualizer/) `TODO`
 
 ## First Prototype
 ![mvp1](https://github.com/user-attachments/assets/439d720f-9dce-4e46-8a64-8cd8252a0a02)
+<img src="assets/mvp1.gif">
 
 ## How to run?
 ```
@@ -27,6 +24,7 @@ java AlgorithmVisualizer
 - Different sorting algorithms
 
 ## References:
+- https://github.com/Rustam-Z 
 - https://github.com/Alimov-8
 - https://clementmihailescu.github.io/Sorting-Visualizer/
 - https://www.geeksforgeeks.org/java-swing-jmenubar/
