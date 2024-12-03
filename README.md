@@ -12,7 +12,7 @@ Finish date: December 13, 2020
 - [Pathfinding algorithm](https://clementmihailescu.github.io/Pathfinding-Visualizer/) `TODO`
 
 ## First Prototype
-<img src="assets/mvp1.gif">
+![mvp1](https://github.com/user-attachments/assets/439d720f-9dce-4e46-8a64-8cd8252a0a02)
 
 ## How to run?
 ```
