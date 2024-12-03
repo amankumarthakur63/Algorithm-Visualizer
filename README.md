@@ -1,6 +1,6 @@
 # Algorithm Visualizer in Java 
 
-Developed by [@Aman Kumar Thakur](https://github.com/amankumarthakur63/Algorithm-Visualizer.git) 
+Developed by [@Aman Kumar](https://github.com/amankumarthakur63/Algorithm-Visualizer.git) 
 
 Finish date: December 3, 2024
 
