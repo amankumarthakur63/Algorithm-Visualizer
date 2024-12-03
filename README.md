@@ -9,7 +9,7 @@ Finish date: December 3, 2024
 
 ## First Prototype
 ![mvp1](https://github.com/user-attachments/assets/439d720f-9dce-4e46-8a64-8cd8252a0a02)
-<img src="assets/mvp1.gif">
+
 
 ## How to run?
 ```
