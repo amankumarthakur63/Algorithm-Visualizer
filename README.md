@@ -1,10 +1,10 @@
 # Algorithm Visualizer in Java 
 
-Developed by [@Rustam-Z](https://github.com/Rustam-Z) and [@Alimov-8](https://github.com/Alimov-8) 
+Developed by [@Rustam-Z](https://github.com/Rustam-Z) and
 
-Demo video: https://youtu.be/huR1NSwUnAY 
 
-Finish date: December 13, 2020
+
+Finish date: December 3, 2024
 
 ## Project Features
 - Sorting Algorithms Visualizer `DONE`
@@ -27,6 +27,7 @@ java AlgorithmVisualizer
 - Different sorting algorithms
 
 ## References:
+- https://github.com/Alimov-8
 - https://clementmihailescu.github.io/Sorting-Visualizer/
 - https://www.geeksforgeeks.org/java-swing-jmenubar/
 - https://stackoverflow.com/questions/31094904/jmenu-not-appearing-until-window-is-resized
