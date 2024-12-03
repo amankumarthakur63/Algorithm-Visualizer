@@ -4,7 +4,7 @@ Developed by [@Aman Kumar Thakur](https://github.com/amankumarthakur63/Algorithm
 
 Finish date: December 3, 2024
 
-## Project Features
+## Project Feature
 - Sorting Algorithms Visualizer `DONE`
 
 ## First Prototype
